@@ -238,3 +238,4 @@
 2024-11-06 11:11:52 DEBUG    rasa.core.processor  - [debug    ] processor.actions.log          action_name=action_listen rasa_events=[]
 2024-11-06 11:11:52 DEBUG    rasa.core.tracker_store  - No event broker configured. Skipping streaming events.
 2024-11-06 11:11:52 DEBUG    rasa.core.lock_store  - Deleted lock for conversation 'shreyas'.
+EOF
